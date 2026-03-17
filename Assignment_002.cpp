@@ -49,7 +49,5 @@ int main() {
 
     analyzeGrades(grades, students, subjects);
 
-    delete[] grades;
-
     return 0;
 }
